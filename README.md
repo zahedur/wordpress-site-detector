@@ -28,7 +28,7 @@ Now you'll see the extension icon in your toolbar!
 ## 👨‍💻 Developer
 
 **Md Zahedur Rahman**  
-📧 Email: [zahedurr47@zahedur.com](mailto:zahedurr47@zahedur.com)  
+📧 Email: [zahedurr47@gmail.com](mailto:zahedurr47@gmail.com)  
 🌐 Website: [https://zahedur.com](https://zahedur.com)
 
 ## 📄 License
