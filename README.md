@@ -25,23 +25,6 @@ This Chrome extension helps you detect whether a website is built with **WordPre
 
 Now you'll see the extension icon in your toolbar!
 
-## 🖼️ Screenshots
-
-(Add screenshots of popup and icon in toolbar here)
-
-## 📁 File Structure
-
-wordpress-detector-extension/
-├── icons/
-│ ├── icon-48.png
-│ └── icon-128.png
-├── content.js
-├── popup.html
-├── popup.js
-├── background.js
-├── manifest.json
-└── styles.css
-
 ## 👨‍💻 Developer
 
 **Md Zahedur Rahman**  
