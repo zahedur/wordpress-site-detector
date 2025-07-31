@@ -27,8 +27,13 @@ Now you'll see the extension icon in your toolbar!
 
 ## 🖼️ Screenshots
 
+Not WordPress website.
 ![Alt text](https://github.com/zahedur/wordpress-site-detector/blob/main/no-wordpress-website.png)
+
+This is WordPress website.
 ![Alt text](https://github.com/zahedur/wordpress-site-detector/blob/main/wordpress-website.png)
+
+WordPress website with details.
 ![Alt text](https://github.com/zahedur/wordpress-site-detector/blob/main/wordpress-website-details.png)
 
 ## 👨‍💻 Developer
