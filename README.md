@@ -25,6 +25,12 @@ This Chrome extension helps you detect whether a website is built with **WordPre
 
 Now you'll see the extension icon in your toolbar!
 
+## 🖼️ Screenshots
+
+![Alt text](https://github.com/zahedur/wordpress-site-detector/blob/main/no-wordpress-website.png)
+![Alt text](https://github.com/zahedur/wordpress-site-detector/blob/main/wordpress-website.png)
+![Alt text](https://github.com/zahedur/wordpress-site-detector/blob/main/wordpress-website-details.png)
+
 ## 👨‍💻 Developer
 
 **Md Zahedur Rahman**  
